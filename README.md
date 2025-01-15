@@ -1,6 +1,7 @@
 ﻿# Cybernauts_Task
 Backend Implementation (API)
 
+Objective:
 1. Implemented endpoint api/ with all CRUD operations:
    GET  api/users - get all users (200)
    POST  api/create - create new user (201, 400)
@@ -15,3 +16,5 @@ hobbies - user's hobbies (array of strings or empty array, required)
 
 3. Implemented proper error handling (500) .
 4. Used .env for configuration (eg. PORT, MONGODB_URL) .
+5. Set Up Environment Variables.
+6. Tested all the api requests using POSTMAN .
